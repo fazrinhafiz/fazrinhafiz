@@ -4,7 +4,7 @@
 
 AI Engineer in Test with a Master's in Data Science. I spend my days breaking software so users don't have to, and my evenings building things with data, ML and GenAI. Interested in **AI evaluation, test automation, forecasting, and risk modelling**.
 
-- 🧪 Currently: AI Engineer in Test @ **Ideagen**
+- 🧪 Currently: AI Engineer in Test
 - 🏦 Previously tested fintech & banking systems at **Antom (Ant International)**, **Maybank** and **Telekom Malaysia**
 - 📈 Master's dissertation: forecasting Brent & WTI oil prices with VARMAX, XGBoost and LSTM, explained with SHAP
 - 🌱 Learning: RAG evaluation, LLMOps, credit risk modelling
